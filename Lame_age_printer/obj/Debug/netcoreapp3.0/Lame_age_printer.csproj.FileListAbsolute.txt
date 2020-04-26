@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\bin\Debug\netcoreapp3.0\Lame_age_printer.exe
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\bin\Debug\netcoreapp3.0\Lame_age_printer.deps.json
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\bin\Debug\netcoreapp3.0\Lame_age_printer.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\bin\Debug\netcoreapp3.0\Lame_age_printer.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\bin\Debug\netcoreapp3.0\Lame_age_printer.dll
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\bin\Debug\netcoreapp3.0\Lame_age_printer.pdb
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\obj\Debug\netcoreapp3.0\Lame_age_printer.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\obj\Debug\netcoreapp3.0\Lame_age_printer.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\obj\Debug\netcoreapp3.0\Lame_age_printer.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\obj\Debug\netcoreapp3.0\Lame_age_printer.dll
+C:\Users\Felix\Documents\C# Prodjects\Lame_age_printer\obj\Debug\netcoreapp3.0\Lame_age_printer.pdb
